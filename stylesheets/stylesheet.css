@@ -879,3 +879,12 @@ footer a:hover {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
+
+/*-------------------add-------------------*/
+img{/*Centering Image*/
+  margin:10px auto;
+  display:block;
+}
+img:hover{/*Some Neon light(Shadow) effect*/
+  box-shadow: 0px 0px 15px #2e7bcd;
+}
